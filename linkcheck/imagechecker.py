@@ -2,33 +2,22 @@ __author__ = 'Moriarty'
 import requests
 import csv
 import json
-f=open("c.csv","rb")
 
-# The CSV should contain Auckland Museum API image links without the rending information
-#eg. http://api.aucklandmuseum.com/id/media/v/320810
+# list.csv should contain Auckland Museum API image links without rendering information
+# e.g. http://api.aucklandmuseum.com/id/media/v/320810
 
-r=open("brokenlink.csv","ab")
-rr=csv.writer(r)
-h=csv.reader(f)
-
-for row in h:
-    row = ''.join(row)
-    row = row +str("/metadata")
-    print (row)
-    try:
-        headers = {
-         'accept': "application/json"
-         }
-
+with open('list.csv', "r") as list:
+    l = csv.reader(list)
+    for row in l:
+        row = ''.join(row)
+        row = row+str("/metadata")
+        headers = {'accept': "application/json"}
         response = requests.request("GET", row, headers=headers)
-        #print(response)
-        parsed_json = json.loads(response.text)
-        image = parsed_json ["am:filesize"]
-        #print(image)
+        res = [''.join(row),response]
+        if "404" in str(res):
+            with open("errors.csv","ab") as outfile:
+                writer = csv.writer(outfile)
+                writer.writerow(res)
 
-    except ValueError:  # includes simplejson.decoder.JSONDecodeError
 
-        res=[''.join(row),response]
-        rr.writerow(res)
-f.close()
-r.close()
+list.close()
