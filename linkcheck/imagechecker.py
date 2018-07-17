@@ -16,7 +16,7 @@ http://media.api.aucklandmuseum.com/id/media/v/531216?rendering=original.jpg
 total_errors = 0
 
 # List total number of rows in file.
-with open('list4.csv', "r+") as links:
+with open(input_file, "r+") as links:
     data = csv.reader(links)
     numrows = len(list(data))
     print ("Your file contains " + str(numrows) + " rows." + '\n')
