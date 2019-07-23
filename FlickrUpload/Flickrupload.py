@@ -1,10 +1,11 @@
+__author__ = 'amoriarty'
 import os
 import flickr_api
 import json
 
 
-flickr_api_key = '7472d48c4a6c47634077ce0146bf657a'
-flickr_secret = 'a0fa65e064206044'
+flickr_api_key = ''
+flickr_secret = ''
 
 flickr_api.set_keys(api_key = flickr_api_key, api_secret = flickr_secret)
 a = flickr_api.auth.AuthHandler()
@@ -23,14 +24,20 @@ with open("images.json", "r")  as read_file:
     while i < len(data):
         Title = data[i]['Title']
         filepath = data[i]['Filename']
-        Common = data[i]['Common']
         Dept = data[i]['Dept']
         URL = data[i]['URL']
         Accession = data[i]['Accession']
-        Title = Title + str(" ") + Common + str(" ") + Accession
-        Tags = Dept + str(" ") + Accession + str(" ") +Common
+        if  data[i]['Common']:
+            CName = data[i]['Common']
+            Common = str( "(") + CName + str(")")
+            Title = Title + Common
+            Tags = Dept + str(" ") + Accession + str(" ") + Common
+            Description = Title + str(" from the ") + Dept + str(" department. For more details visit Collections Online - ") + URL
+            flickr_api.upload(photo_file = filepath, title = Title, tags = Tags, description = Description, is_public="0")
+            i = i + 1
+
+        Title = Title
+        Tags = Dept + str(" ") + Accession
         Description = Title + str(" from the ") + Dept + str(" department. For more details visit Collections Online - ") + URL
-
-        flickr_api.upload(photo_file = filepath, title = Title, tags = Tags,description = Description, is_public="0")
-
+        flickr_api.upload(photo_file = filepath, title = Title, tags = Tags, description = Description, is_public="0")
         i = i + 1
