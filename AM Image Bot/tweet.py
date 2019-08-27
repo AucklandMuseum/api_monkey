@@ -17,7 +17,7 @@ def hashtags(dept):
     #print dept
     hashes=""
     hashdict={
-        "botany":['botany','nature','science','plants','image'],
+        "Botany":['botany','nature','science','plants','image'],
         "Entomology":['entomology','nature','science','bugs','insects'],
         "photography":['photography','art','pics'],
         "Marine":['marine','nature','science','underwater'],
@@ -53,7 +53,7 @@ def step1():
     id = random.randrange(0, 1000, 2)
     ###############################################################################
     url = "https://api.aucklandmuseum.com/search/collectionsonline/_search"
-    querystring = {"q": "primaryRepresentation:http*&size=1000"}
+    querystring = {"q": "primaryRepresentation:http*+-department:%22Botany%22&size=1000"}
     payload = "{\r\n\"sort\" : [\r\n{ \r\n\"lastModifiedOn\" : \r\n{\"order\" : \"desc\"} \r\n}\r\n]\r\n}\r\n"
     headers = {
         'content-type': "application/json",
@@ -69,7 +69,7 @@ def step1():
     image_url = ast.literal_eval(json.dumps(image_url))
     image_url = image_url + "?rendering=standard.jpg"
     # Image checker begins:
-    print 'Image URL: '+ image_url
+    print 'Image URL: ' + image_url
     
     # Get image metadata
     # NB: Metadata actually resides at /media/v/[id]/metadata
@@ -80,30 +80,36 @@ def step1():
     
     # Print it, just to check
     printable_img_json = ast.literal_eval(json.dumps(image_json))
-    pp (printable_img_json)
+    #pp (printable_img_json)
     
     # Pull timestamp from image metadata as a string, turn it into a datetime object
     image_date = image_json['am:lastModifiedOn'][0]['value']
     image_date = ast.literal_eval(json.dumps(image_date))
     
+    image_location = image_json['am:mediaLocation'][0]['value']
+    image_location = ast.literal_eval(json.dumps(image_location))
+    print image_location
+    
     # Evaluate datetime object: was it a good year for AM collection images?
     date_format = "%Y-%m-%dT%H:%M:%S.%fZ" 
     dt_obj = datetime.strptime(image_date, date_format)
     print dt_obj.year
-    if dt_obj.year == 2016 or 2017 or 2018:
+    if dt_obj.year == 2016 or 2017 or 2018 or 2019:
         #print image0
-        urllib.urlretrieve(image_url, "0.jpg")
-        img = Image.open("0.jpg")
+        urllib.urlretrieve(image_url, "1.jpg")
+        img = Image.open("1.jpg")
         dept = parsed_json["hits"]["hits"][id]['_source']['department']
         dept = ast.literal_eval(json.dumps(dept))
     
-        if os.stat('0.jpg').st_size == 17015:
+        if os.stat('1.jpg').st_size == 17015:
             print ("Restart")
-        elif os.stat('0.jpg').st_size == 15411:
+        elif os.stat('1.jpg').st_size == 15411:
             print ("Restart again")
-        elif 'botany' in dept:
+        elif 'Botany' in dept:
             print ("Sorry Botany...try again")
-        else:
+        elif 'Archaeology' in dept:
+            print ("sorry Archaeology")
+        elif 'Collection Imaging' in image_location or "Ephemera" in dept or "painting and drawings" in dept or "Pictorial" in dept:
             print ("whoop")
             url = parsed_json["hits"]["hits"][id]['_id']
             title = parsed_json["hits"]["hits"][id]['_source']['appellation']['Primary Title']
@@ -117,18 +123,27 @@ def step1():
                 "library/manuscriptsandarchives/": "am_library-manuscriptsandarchives-",
                 "library/paintinganddrawings/": "am_library-paintinganddrawings-",
                 "library/catalogq40/": "am_library-catalogq40-"}
+                
             rep = dict((re.escape(k), v) for k, v in rep.iteritems())
             pattern = re.compile("|".join(rep.keys()))
             url = pattern.sub(lambda m: rep[re.escape(m.group(0))], url)
             h=hashtags(str(dept).replace('[', '').replace(']',''))
+            
+            
             tweet = str(title).replace('[', '').replace(']', '') + " from the " + str(dept).replace('[', '').replace(']','') + " department. " + str(h) + str(url)
+            
+            #send off to twitter
             auth = tweepy.OAuthHandler(settings.CONSUMER_KEY, settings.CONSUMER_SECRET)
             auth.set_access_token(settings.ACCESS_KEY, settings.ACCESS_SECRET)
             api = tweepy.API(auth)
-            api.update_with_media('0.jpg', str(tweet))
+            api.update_with_media('1.jpg', str(tweet))
             print (tweet)
+            
+            #wait three hours
             time.sleep(10800)
 
+        else:
+            print "bugger"
 
 while True:
     step1()
