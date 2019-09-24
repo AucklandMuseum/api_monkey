@@ -1,16 +1,767 @@
-{
+{ 
   "collection": "Auckland Museum",
-  "images":[
+  "images": [
     {
       "colors": [
-        "#442c1c",
-        "#2f4f4f",
-        "#927450",
-        "#696969",
-        "#664c31",
-        "#556b2f"
+        "#6a442f",
+        "#826349"
       ],
-      "url": "http://api.aucklandmuseum.com/id/library/paintinganddrawings/388"
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/387"
+    },
+    {
+      "colors": [
+        "#4d432e",
+        "#75623f"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1733"
+    },
+    {
+      "colors": [
+        "#393e46",
+        "#5f4433",
+        "#ad7a52",
+        "#362c28",
+        "#a76042"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1728"
+    },
+    {
+      "colors": [
+        "#2c2e30",
+        "#685945",
+        "#433428",
+        "#8a765c",
+        "#6f2a22"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1753"
+    },
+    {
+      "colors": [
+        "#532517",
+        "#2d251d",
+        "#8c4625",
+        "#a96334",
+        "#e0cb98"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1969"
+    },
+    {
+      "colors": [
+        "#bfad87",
+        "#755c49",
+        "#f8efd7"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/3871"
+    },
+    {
+      "colors": [
+        "#383231",
+        "#513c2c",
+        "#7e6146",
+        "#48211d",
+        "#a4805d"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1769"
+    },
+    {
+      "colors": [
+        "#37383a",
+        "#56585b",
+        "#bfaf8a",
+        "#79503f",
+        "#9a7c59"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/3870"
+    },
+    {
+      "colors": [
+        "#282a2c",
+        "#5d462f",
+        "#7f613e",
+        "#3a291e",
+        "#a0825a"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1996"
+    },
+    {
+      "colors": [
+        "#3f2918",
+        "#342325",
+        "#7c5e3f",
+        "#aca388",
+        "#85785d"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1749"
+    },
+    {
+      "colors": [
+        "#44413d",
+        "#674b3b",
+        "#25282c",
+        "#9f8c6d",
+        "#8a6654"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1783"
+    },
+    {
+      "colors": [
+        "#403229",
+        "#674328",
+        "#8a5d36",
+        "#8e7b60",
+        "#cda486"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/383"
+    },
+    {
+      "colors": [
+        "#392114",
+        "#6f7b7f",
+        "#93877b",
+        "#733e26",
+        "#405c6b"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/477"
+    },
+    {
+      "colors": [
+        "#9c6a40",
+        "#6d4a1f",
+        "#4f463c",
+        "#c38743",
+        "#e1b269"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1846"
+    },
+    {
+      "colors": [
+        "#383633",
+        "#b89366",
+        "#543623",
+        "#8b6c49",
+        "#635444"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1565"
+    },
+    {
+      "colors": [
+        "#60492e",
+        "#876739",
+        "#cf8b53",
+        "#a78a5d",
+        "#865230"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/384"
+    },
+    {
+      "colors": [
+        "#856646",
+        "#31221d",
+        "#4b3d2b",
+        "#b48f69"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1645"
+    },
+    {
+      "colors": [
+        "#dbd5c8",
+        "#c89e75",
+        "#4e2b19",
+        "#74553f",
+        "#947154"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1743"
+    },
+    {
+      "colors": [
+        "#e6d5c0",
+        "#7e664a",
+        "#4f4337",
+        "#b3926e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/2114"
+    },
+    {
+      "colors": [
+        "#382617",
+        "#5a3a15",
+        "#8a592e",
+        "#d6830a"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/385"
+    },
+    {
+      "colors": [
+        "#696559",
+        "#a18e75",
+        "#333230",
+        "#503f38",
+        "#839089"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1936"
+    },
+    {
+      "colors": [
+        "#cc9f7d",
+        "#dfc4a7",
+        "#9a7c64",
+        "#59504b"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/3460"
+    },
+    {
+      "colors": [
+        "#544133",
+        "#2d221e",
+        "#90643a",
+        "#a97f51",
+        "#d0a46c"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1754"
+    },
+    {
+      "colors": [
+        "#8c826e",
+        "#703a1c",
+        "#4b2215",
+        "#967564",
+        "#725547"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/414"
+    },
+    {
+      "colors": [
+        "#534228",
+        "#35251b",
+        "#785c45",
+        "#877e6c",
+        "#99754f"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1800"
+    },
+    {
+      "colors": [
+        "#534a3c",
+        "#2e2622",
+        "#979982",
+        "#896840",
+        "#bebba1"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1939"
+    },
+    {
+      "colors": [
+        "#7d5b3c",
+        "#c9b399",
+        "#5c7b89",
+        "#9b968a",
+        "#a57d52"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/487"
+    },
+    {
+      "colors": [
+        "#ab8860",
+        "#8f6d48",
+        "#64472a",
+        "#ddb67f",
+        "#b7ab8c"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1868"
+    },
+    {
+      "colors": [
+        "#3a2a27",
+        "#c0b7a4",
+        "#3f464e",
+        "#a6b3b3",
+        "#668789"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1742"
+    },
+    {
+      "colors": [
+        "#664538",
+        "#9f9b87",
+        "#958065",
+        "#8a6953",
+        "#cfc4b0"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1867"
+    },
+    {
+      "colors": [
+        "#88623d",
+        "#423426",
+        "#bba780",
+        "#a78357",
+        "#99a58d"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/446"
+    },
+    {
+      "colors": [
+        "#727974",
+        "#585248",
+        "#a69d8a",
+        "#786654"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/647"
+    },
+    {
+      "colors": [
+        "#5b3d2c",
+        "#b6bcad",
+        "#3e362e",
+        "#8b948a",
+        "#835f40"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1819"
+    },
+    {
+      "colors": [
+        "#5c4b42",
+        "#442a22",
+        "#8f755c",
+        "#b99e80",
+        "#292a2e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/327"
+    },
+    {
+      "colors": [
+        "#a2856e",
+        "#2f2926",
+        "#c8ae95",
+        "#584538"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/2210"
+    },
+    {
+      "colors": [
+        "#3b352f",
+        "#cab595",
+        "#7b6452",
+        "#4e3420",
+        "#b78d65"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/2083"
+    },
+    {
+      "colors": [
+        "#685648",
+        "#9a7144",
+        "#4c2f1c",
+        "#8b7868",
+        "#2d2621"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1801"
+    },
+    {
+      "colors": [
+        "#352e28",
+        "#b08c70",
+        "#8c705b",
+        "#695647"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/2294"
+    },
+    {
+      "colors": [
+        "#392f21",
+        "#b59460",
+        "#634223",
+        "#98957f",
+        "#977b5a"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1799"
+    },
+    {
+      "colors": [
+        "#38312c",
+        "#675a50",
+        "#bfaf96",
+        "#918476",
+        "#513723"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/2082"
+    },
+    {
+      "colors": [
+        "#80726b",
+        "#a59789",
+        "#45362c",
+        "#6a4935",
+        "#798b8a"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/478"
+    },
+    {
+      "colors": [
+        "#372d27",
+        "#483c22",
+        "#ddc9ae",
+        "#8d7f69",
+        "#5f5947"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/2025"
+    },
+    {
+      "colors": [
+        "#6c5442",
+        "#3f3429",
+        "#cfa57d",
+        "#a48466",
+        "#b0ac8e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/486"
+    },
+    {
+      "colors": [
+        "#929e8a",
+        "#aba183",
+        "#301c16",
+        "#553b33",
+        "#807a66"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/415"
+    },
+    {
+      "colors": [
+        "#2e2d30",
+        "#a48e87",
+        "#544744",
+        "#6f6c69",
+        "#816053"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/646"
+    },
+    {
+      "colors": [
+        "#a8a792",
+        "#563e23",
+        "#805f38",
+        "#2f241a",
+        "#6f7465"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1860"
+    },
+    {
+      "colors": [
+        "#58504f",
+        "#7a7368",
+        "#9a8c73",
+        "#b78a66",
+        "#926e55"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/648"
+    },
+    {
+      "colors": [
+        "#b69f88",
+        "#5f5045",
+        "#34393c",
+        "#c4beb7",
+        "#8b8681"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1736"
+    },
+    {
+      "colors": [
+        "#7e7b56",
+        "#675e31",
+        "#3c2f1d"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/243"
+    },
+    {
+      "colors": [
+        "#866a57",
+        "#665041",
+        "#c7c3a9",
+        "#9a916e",
+        "#6f6041"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/3616"
+    },
+    {
+      "colors": [
+        "#8e9b99",
+        "#564b40",
+        "#c5b5a3",
+        "#a6866f",
+        "#80614d"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/580"
+    },
+    {
+      "colors": [
+        "#b5a180",
+        "#7b441b",
+        "#9d7252",
+        "#69645b",
+        "#4b2a13"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/417"
+    },
+    {
+      "colors": [
+        "#aeae9a",
+        "#9b8568",
+        "#82a0a5",
+        "#6f553f",
+        "#d6c7a7"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/485"
+    },
+    {
+      "colors": [
+        "#886d5b",
+        "#624c3f",
+        "#b7b59e",
+        "#978e77",
+        "#93904a"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/3618"
+    },
+    {
+      "colors": [
+        "#e9d8c1",
+        "#a69a8b",
+        "#594d47"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/149"
+    },
+    {
+      "colors": [
+        "#ccc9b9",
+        "#71675a",
+        "#8a8171",
+        "#4c4b45"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1960"
+    },
+    {
+      "colors": [
+        "#c8baa7",
+        "#9c8773",
+        "#746456"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/547"
+    },
+    {
+      "colors": [
+        "#ecdfca",
+        "#a09484",
+        "#6e645b"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/150"
+    },
+    {
+      "colors": [
+        "#e9e0ce",
+        "#c0b5a4",
+        "#807468"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/125"
+    },
+    {
+      "colors": [
+        "#efe2d1",
+        "#968272",
+        "#c7b6a3"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/2103"
+    },
+    {
+      "colors": [
+        "#d7ceb0",
+        "#9c9275",
+        "#746a5f"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1871"
+    },
+    {
+      "colors": [
+        "#d2cbba",
+        "#586264",
+        "#383537",
+        "#727d78",
+        "#9a8a76"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/104"
+    },
+    {
+      "colors": [
+        "#477580",
+        "#48595d",
+        "#e9d7c7",
+        "#c7af95",
+        "#9f816a"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1882"
+    },
+    {
+      "colors": [
+        "#b5a88b",
+        "#818b7d",
+        "#4e544d",
+        "#8d836a",
+        "#6f6353"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/737"
+    },
+    {
+      "colors": [
+        "#e7dbc9",
+        "#92897e",
+        "#706860",
+        "#b7ada0"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/148"
+    },
+    {
+      "colors": [
+        "#716153",
+        "#b39e7e",
+        "#443b33",
+        "#d8c5a4",
+        "#897d6d"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1834"
+    },
+    {
+      "colors": [
+        "#39373a",
+        "#c8b19b",
+        "#ac8f7e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/759"
+    },
+    {
+      "colors": [
+        "#595043",
+        "#c3c6bb",
+        "#a39c93",
+        "#807c72",
+        "#c4a791"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/479"
+    },
+    {
+      "colors": [
+        "#b59270",
+        "#97663d",
+        "#754c33",
+        "#382920",
+        "#daae72"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1758"
+    },
+    {
+      "colors": [
+        "#b59d85",
+        "#b0b8a5",
+        "#717a31",
+        "#524234",
+        "#682225"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/3611"
+    },
+    {
+      "colors": [
+        "#daceb8",
+        "#737468",
+        "#a19680",
+        "#5f574e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/106"
+    },
+    {
+      "colors": [
+        "#e7d1b3",
+        "#aa9d89",
+        "#8f7f6c",
+        "#dbb082",
+        "#716558"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/128"
+    },
+    {
+      "colors": [
+        "#97918b",
+        "#b7b3a9",
+        "#6c5a3f",
+        "#bcbdc7",
+        "#4b3b31"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1201"
+    },
+    {
+      "colors": [
+        "#d6c6ac",
+        "#a0826d",
+        "#8d8682",
+        "#24282f",
+        "#544549"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1912"
+    },
+    {
+      "colors": [
+        "#d9d4c7",
+        "#aaa69e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1276"
+    },
+    {
+      "colors": [
+        "#cfae89",
+        "#afa79a",
+        "#523b2b",
+        "#2c221c",
+        "#918168"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1855"
+    },
+    {
+      "colors": [
+        "#bdb6a9",
+        "#94887e",
+        "#eae2cf"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/3564"
+    },
+    {
+      "colors": [
+        "#c9bdab",
+        "#ae9781",
+        "#657664",
+        "#84957d",
+        "#a7a27e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/326"
+    },
+    {
+      "colors": [
+        "#9faca4",
+        "#acc9d3",
+        "#cecfc3",
+        "#709194",
+        "#556a6e"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/510"
+    },
+    {
+      "colors": [
+        "#926541",
+        "#a98c71",
+        "#67644d",
+        "#c8bfab",
+        "#494437"
+      ],
+      "url": "http://api.aucklandmuseum.com/url/library/paintinganddrawings/1831"
     }
-]
+  ]
 }
+
