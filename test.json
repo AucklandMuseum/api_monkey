@@ -1,0 +1,26 @@
+{
+  "collection": "Auckland Museum",
+  "images":[
+    {
+      "colors": Array[6][
+        "#9b8c6b",
+        "#564a30",
+        "#786c4f",
+        "#c5b99b",
+        "#181b11",
+        "#383d48"
+      ],
+      "url": "http://www.loc.gov/item/2004666176/"
+    },
+    {
+      "colors": Array[6][
+        "#442c1c",
+        "#2f4f4f",
+        "#927450",
+        "#696969",
+        "#664c31",
+        "#556b2f"
+      ],
+      "url": "http://api.aucklandmuseum.com/id/library/paintinganddrawings/388"
+    }
+}
