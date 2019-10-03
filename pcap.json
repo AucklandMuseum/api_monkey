@@ -1,0 +1,4693 @@
+  { 
+  "collection": "Auckland Museum",
+  "images": [
+    {
+      "colors": [
+        "#c4c5b0",
+        "#9c967f",
+        "#4f0407"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-662714"
+    },
+    {
+      "colors": [
+        "#968759",
+        "#c9bc90",
+        "#755c34"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28725"
+    },
+    {
+      "colors": [
+        "#742518",
+        "#e25239",
+        "#dec5b2"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-612979"
+    },
+    {
+      "colors": [
+        "#b09d67",
+        "#7e6b4a",
+        "#654f2e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-612982"
+    },
+    {
+      "colors": [
+        "#bba25f",
+        "#694817",
+        "#f5dcb4"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102348"
+    },
+    {
+      "colors": [
+        "#876e52",
+        "#8e2743",
+        "#a79575"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21502"
+    },
+    {
+      "colors": [
+        "#ac8958",
+        "#d3a878",
+        "#453625"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100591"
+    },
+    {
+      "colors": [
+        "#b9beb4",
+        "#948f7d",
+        "#806e60"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100729"
+    },
+    {
+      "colors": [
+        "#673b35",
+        "#9a8a78",
+        "#655144"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100857"
+    },
+    {
+      "colors": [
+        "#8f562a",
+        "#b48352",
+        "#e8bb89"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101267"
+    },
+    {
+      "colors": [
+        "#423d20",
+        "#b59a7f",
+        "#726949"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101365"
+    },
+    {
+      "colors": [
+        "#765c25",
+        "#dbca99",
+        "#f5efd6"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101371"
+    },
+    {
+      "colors": [
+        "#553f24",
+        "#8c795c",
+        "#705c48"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101542"
+    },
+    {
+      "colors": [
+        "#937e5d",
+        "#b9a082",
+        "#4f494e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101889"
+    },
+    {
+      "colors": [
+        "#bfb4ac",
+        "#c5c9d6",
+        "#b5a376"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101909"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101930"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22872"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102195"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102253"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102263"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102289"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102291"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102292"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21491"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21726"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102341"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102347"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22762"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22748"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22251"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22250"
+    },
+    {
+      "colors": [
+        "#7b6645",
+        "#3e372b",
+        "#644020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22753"
+    },
+    {
+      "colors": [
+        "#5d4013",
+        "#927347",
+        "#9e8f61"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22938"
+    },
+    {
+      "colors": [
+        "#aca599",
+        "#d2ccc0",
+        "#7c603e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100468"
+    },
+    {
+      "colors": [
+        "#8a8f92",
+        "#571619",
+        "#554039"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23689"
+    },
+    {
+      "colors": [
+        "#7f6c48",
+        "#4f4032",
+        "#aa9779"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100729"
+    },
+    {
+      "colors": [
+        "#bfbab2",
+        "#b3a185",
+        "#948164"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100662"
+    },
+    {
+      "colors": [
+        "#b4b1a7",
+        "#968970",
+        "#7a674b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101264"
+    },
+    {
+      "colors": [
+        "#c9c6be",
+        "#8d7749",
+        "#a19a8f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23752"
+    },
+    {
+      "colors": [
+        "#4e5149",
+        "#8f513a",
+        "#62514b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23801"
+    },
+    {
+      "colors": [
+        "#d0cabe",
+        "#827d73",
+        "#a9a499"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24374"
+    },
+    {
+      "colors": [
+        "#4f2e28",
+        "#9c5639",
+        "#c17b5d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24161"
+    },
+    {
+      "colors": [
+        "#d7d3c8",
+        "#725d35",
+        "#9d875c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24801"
+    },
+    {
+      "colors": [
+        "#29231b",
+        "#593e23",
+        "#bca388"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101378"
+    },
+    {
+      "colors": [
+        "#29231b",
+        "#593e23",
+        "#bca388"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101545"
+    },
+    {
+      "colors": [
+        "#b1b083",
+        "#918f5e",
+        "#5f6245"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24610"
+    },
+    {
+      "colors": [
+        "#5b442e",
+        "#927c5d",
+        "#77613e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25084"
+    },
+    {
+      "colors": [
+        "#928f8a",
+        "#737066",
+        "#5d422a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102160"
+    },
+    {
+      "colors": [
+        "#81786f",
+        "#56493e",
+        "#b0a7a1"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25183"
+    },
+    {
+      "colors": [
+        "#c8bcb9",
+        "#3a3436",
+        "#544237"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25062"
+    },
+    {
+      "colors": [
+        "#b1aea6",
+        "#573e26",
+        "#8d7452"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102255"
+    },
+    {
+      "colors": [
+        "#a3a192",
+        "#828075",
+        "#866c3d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101866"
+    },
+    {
+      "colors": [
+        "#a3a192",
+        "#828075",
+        "#866c3d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25709"
+    },
+    {
+      "colors": [
+        "#847243",
+        "#888273",
+        "#9e8d63"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102264"
+    },
+    {
+      "colors": [
+        "#e9d9d1",
+        "#493a39",
+        "#5b2f2d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22735"
+    },
+    {
+      "colors": [
+        "#4d4b47",
+        "#6a594a",
+        "#b89c69"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101917"
+    },
+    {
+      "colors": [
+        "#b5a091",
+        "#e6d5c8",
+        "#8d5d42"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25038"
+    },
+    {
+      "colors": [
+        "#516472",
+        "#6a818c",
+        "#384f51"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102272"
+    },
+    {
+      "colors": [
+        "#cbb987",
+        "#7a2b22",
+        "#a0885a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100468"
+    },
+    {
+      "colors": [
+        "#5e552b",
+        "#747238",
+        "#5b4534"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25337"
+    },
+    {
+      "colors": [
+        "#612a30",
+        "#bed0c0",
+        "#975b57"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102286"
+    },
+    {
+      "colors": [
+        "#dad6cb",
+        "#725c32",
+        "#a39d8c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100613"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100729"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25172"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25266"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101262"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25388"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25404"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25384"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25556"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101314"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101337"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21860"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25356"
+    },
+    {
+      "colors": [
+        "#926d2c",
+        "#6c4214",
+        "#4a2404"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101315"
+    },
+    {
+      "colors": [
+        "#cbdeea",
+        "#3b3f34",
+        "#8a8674"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102828"
+    },
+    {
+      "colors": [
+        "#b49368",
+        "#8f7946",
+        "#755435"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101349"
+    },
+    {
+      "colors": [
+        "#7e6f52",
+        "#4b3e28",
+        "#c3ac8e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25425"
+    },
+    {
+      "colors": [
+        "#daab78",
+        "#e7d9c6",
+        "#6f4139"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-103237"
+    },
+    {
+      "colors": [
+        "#613b23",
+        "#875830",
+        "#d7caad"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22063"
+    },
+    {
+      "colors": [
+        "#bab6b0",
+        "#7d6b3e",
+        "#246b70"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22097"
+    },
+    {
+      "colors": [
+        "#d6d2c6",
+        "#83724d",
+        "#614825"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101901"
+    },
+    {
+      "colors": [
+        "#a18269",
+        "#815f43",
+        "#cdc2b3"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21447"
+    },
+    {
+      "colors": [
+        "#383433",
+        "#8a5f3e",
+        "#b77e55"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22787"
+    },
+    {
+      "colors": [
+        "#2c302d",
+        "#514f47",
+        "#7cbac3"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22195"
+    },
+    {
+      "colors": [
+        "#909c8f",
+        "#bbbcb1",
+        "#707364"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22746"
+    },
+    {
+      "colors": [
+        "#845544",
+        "#bc7960",
+        "#d8cecd"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22871"
+    },
+    {
+      "colors": [
+        "#92897f",
+        "#999ba2",
+        "#694822"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101915"
+    },
+    {
+      "colors": [
+        "#6e756e",
+        "#aa8652",
+        "#7f633b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101941"
+    },
+    {
+      "colors": [
+        "#77716b",
+        "#5c584c",
+        "#2f2c28"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25765"
+    },
+    {
+      "colors": [
+        "#b7a090",
+        "#8c7d76",
+        "#70615c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23688"
+    },
+    {
+      "colors": [
+        "#a18e79",
+        "#7e6750",
+        "#83173b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101923"
+    },
+    {
+      "colors": [
+        "#725331",
+        "#53361f",
+        "#8b7968"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101962"
+    },
+    {
+      "colors": [
+        "#8b7d5e",
+        "#6f5e3e",
+        "#4b3d28"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25538"
+    },
+    {
+      "colors": [
+        "#978267",
+        "#b6a08a",
+        "#e2cbb3"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22894"
+    },
+    {
+      "colors": [
+        "#b5ae9a",
+        "#d8d5ca",
+        "#544f3f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100729"
+    },
+    {
+      "colors": [
+        "#897e6f",
+        "#989cac",
+        "#a69470"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25658"
+    },
+    {
+      "colors": [
+        "#bd6449",
+        "#7b4432",
+        "#dbcdcb"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#69553b",
+        "#958363",
+        "#c0bba4"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25672"
+    },
+    {
+      "colors": [
+        "#b3ada9",
+        "#c4c8d4",
+        "#a1895d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22911"
+    },
+    {
+      "colors": [
+        "#caad86",
+        "#f5d7af",
+        "#352a1e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100734"
+    },
+    {
+      "colors": [
+        "#be9c83",
+        "#9b735d",
+        "#5b403f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25761"
+    },
+    {
+      "colors": [
+        "#292a26",
+        "#c9c5aa",
+        "#b6a377"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#292a26",
+        "#c9c5aa",
+        "#b6a377"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25697"
+    },
+    {
+      "colors": [
+        "#353730",
+        "#908c87",
+        "#735f54"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22944"
+    },
+    {
+      "colors": [
+        "#ad9f6f",
+        "#6e5f35",
+        "#917e4e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25724"
+    },
+    {
+      "colors": [
+        "#7d6746",
+        "#957f6b",
+        "#674c3a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25763"
+    },
+    {
+      "colors": [
+        "#c8ad93",
+        "#b4835f",
+        "#9e6042"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101254"
+    },
+    {
+      "colors": [
+        "#33312d",
+        "#d3c4a1",
+        "#a19782"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25741"
+    },
+    {
+      "colors": [
+        "#393b3d",
+        "#b2a8a7",
+        "#f2a714"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25748"
+    },
+    {
+      "colors": [
+        "#c2b29e",
+        "#444852",
+        "#8d7055"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101343"
+    },
+    {
+      "colors": [
+        "#c2b29e",
+        "#444852",
+        "#8d7055"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23694"
+    },
+    {
+      "colors": [
+        "#7f6f54",
+        "#8f4251",
+        "#704f50"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23447"
+    },
+    {
+      "colors": [
+        "#c59578",
+        "#d2c6c6",
+        "#a87357"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101088"
+    },
+    {
+      "colors": [
+        "#bac5c6",
+        "#96a1a2",
+        "#7a817c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101544"
+    },
+    {
+      "colors": [
+        "#c2bb9f",
+        "#7a5126",
+        "#986f34"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101660"
+    },
+    {
+      "colors": [
+        "#7d5c3f",
+        "#cfc4a6",
+        "#997d54"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101662"
+    },
+    {
+      "colors": [
+        "#8d8a83",
+        "#988465",
+        "#7d6434"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101665"
+    },
+    {
+      "colors": [
+        "#b0a26c",
+        "#483d18",
+        "#36362e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23692"
+    },
+    {
+      "colors": [
+        "#948449",
+        "#74642f",
+        "#c0b274"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25866"
+    },
+    {
+      "colors": [
+        "#d6d3ca",
+        "#9e9477",
+        "#534230"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25816"
+    },
+    {
+      "colors": [
+        "#2d2222",
+        "#623325",
+        "#9d6640"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25868"
+    },
+    {
+      "colors": [
+        "#e2d5d2",
+        "#322d2d",
+        "#aa9692"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25859"
+    },
+    {
+      "colors": [
+        "#a8915c",
+        "#77652e",
+        "#c3c3b3"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23877"
+    },
+    {
+      "colors": [
+        "#3c3936",
+        "#bcb5a4",
+        "#7f7564"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25968"
+    },
+    {
+      "colors": [
+        "#3b2a1f",
+        "#987b5a",
+        "#786853"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26029"
+    },
+    {
+      "colors": [
+        "#968f85",
+        "#754c31",
+        "#342b26"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25955"
+    },
+    {
+      "colors": [
+        "#352a29",
+        "#b06d40",
+        "#d08b5b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26064"
+    },
+    {
+      "colors": [
+        "#7d5739",
+        "#4d382b",
+        "#916f3e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25961"
+    },
+    {
+      "colors": [
+        "#796344",
+        "#937e66",
+        "#2e261e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26011"
+    },
+    {
+      "colors": [
+        "#d29050",
+        "#a85555",
+        "#62737e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26047"
+    },
+    {
+      "colors": [
+        "#b5a180",
+        "#372c2c",
+        "#1d0f1c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26183"
+    },
+    {
+      "colors": [
+        "#ab9879",
+        "#8b7955",
+        "#c1bcb6"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26261"
+    },
+    {
+      "colors": [
+        "#bb8d15",
+        "#4d4740",
+        "#926015"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26236"
+    },
+    {
+      "colors": [
+        "#8d7b50",
+        "#2f2a1f",
+        "#745f39"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26150"
+    },
+    {
+      "colors": [
+        "#8f6a2e",
+        "#a7874e",
+        "#bdb182"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101858"
+    },
+    {
+      "colors": [
+        "#e6d9c8",
+        "#c4b09e",
+        "#bb9472"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26404"
+    },
+    {
+      "colors": [
+        "#66372a",
+        "#8d6556",
+        "#ead0b3"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21720"
+    },
+    {
+      "colors": [
+        "#ccc6b2",
+        "#9c8c70",
+        "#817674"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101890"
+    },
+    {
+      "colors": [
+        "#dca880",
+        "#ba8759",
+        "#946040"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101908"
+    },
+    {
+      "colors": [
+        "#9f864c",
+        "#cac7ba",
+        "#79522f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26627"
+    },
+    {
+      "colors": [
+        "#2c3953",
+        "#37362a",
+        "#0f1a29"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23363"
+    },
+    {
+      "colors": [
+        "#966c43",
+        "#6b4e2b",
+        "#483f36"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23886"
+    },
+    {
+      "colors": [
+        "#d1c2a4",
+        "#b2a071",
+        "#a06931"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21780"
+    },
+    {
+      "colors": [
+        "#473528",
+        "#68503a",
+        "#9a968c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101912"
+    },
+    {
+      "colors": [
+        "#404036",
+        "#b3aca5",
+        "#414046"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101266"
+    },
+    {
+      "colors": [
+        "#643021",
+        "#745024",
+        "#392d27"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26424"
+    },
+    {
+      "colors": [
+        "#879485",
+        "#20292a",
+        "#3d4851"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102278"
+    },
+    {
+      "colors": [
+        "#38322e",
+        "#c0b294",
+        "#a99564"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26428"
+    },
+    {
+      "colors": [
+        "#a9a585",
+        "#898863",
+        "#614818"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26448"
+    },
+    {
+      "colors": [
+        "#322b26",
+        "#b19f96",
+        "#897667"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24607"
+    },
+    {
+      "colors": [
+        "#adc2bb",
+        "#38463f",
+        "#bbb692"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101256"
+    },
+    {
+      "colors": [
+        "#aaa49c",
+        "#413226",
+        "#86796d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26467"
+    },
+    {
+      "colors": [
+        "#ddd1ce",
+        "#3b2e2e",
+        "#504b52"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101347"
+    },
+    {
+      "colors": [
+        "#633c28",
+        "#3b2a1f",
+        "#8c6634"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25131"
+    },
+    {
+      "colors": [
+        "#d8a888",
+        "#e5d5cf",
+        "#b7aba5"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24618"
+    },
+    {
+      "colors": [
+        "#79706f",
+        "#9f8774",
+        "#836f56"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101350"
+    },
+    {
+      "colors": [
+        "#c5965c",
+        "#e1bd93",
+        "#986b3f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101918"
+    },
+    {
+      "colors": [
+        "#dad1c9",
+        "#ba9d7a",
+        "#ddc6a1"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24621"
+    },
+    {
+      "colors": [
+        "#d7b88d",
+        "#3e392c",
+        "#564022"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25083"
+    },
+    {
+      "colors": [
+        "#d7b88d",
+        "#3e392c",
+        "#564022"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24996"
+    },
+    {
+      "colors": [
+        "#b5af9d",
+        "#8e7443",
+        "#5f3f1f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24980"
+    },
+    {
+      "colors": [
+        "#9a4b28",
+        "#f1e3d0",
+        "#5d2815"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101922"
+    },
+    {
+      "colors": [
+        "#d1d4c2",
+        "#4d483c",
+        "#2c271f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21890"
+    },
+    {
+      "colors": [
+        "#a8a18f",
+        "#888268",
+        "#2e2c26"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101988"
+    },
+    {
+      "colors": [
+        "#94854e",
+        "#282824",
+        "#565348"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24748"
+    },
+    {
+      "colors": [
+        "#aeab9f",
+        "#453e2f",
+        "#e3dbcc"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25140"
+    },
+    {
+      "colors": [
+        "#b3b5c2",
+        "#2a2925",
+        "#b9aea3"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#e7d8d5",
+        "#352a29",
+        "#d19e84"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101927"
+    },
+    {
+      "colors": [
+        "#322e2d",
+        "#655030",
+        "#846c3f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25385"
+    },
+    {
+      "colors": [
+        "#dac2b9",
+        "#b39d92",
+        "#826e66"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102287"
+    },
+    {
+      "colors": [
+        "#39271d",
+        "#a9a191",
+        "#c3a47d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25105"
+    },
+    {
+      "colors": [
+        "#c3bda9",
+        "#68615c",
+        "#958c76"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102259"
+    },
+    {
+      "colors": [
+        "#977a56",
+        "#6f4d32",
+        "#4e2b17"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-20916"
+    },
+    {
+      "colors": [
+        "#d1bca3",
+        "#b69676",
+        "#947255"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#b2ad91",
+        "#d5d2ca",
+        "#2b2018"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25456"
+    },
+    {
+      "colors": [
+        "#742617",
+        "#2a2822",
+        "#976344"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102298"
+    },
+    {
+      "colors": [
+        "#918e89",
+        "#564126",
+        "#716140"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25003"
+    },
+    {
+      "colors": [
+        "#654234",
+        "#a36648",
+        "#a39eb2"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100153"
+    },
+    {
+      "colors": [
+        "#705739",
+        "#bdad85",
+        "#90785c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102261"
+    },
+    {
+      "colors": [
+        "#aea9a4",
+        "#796f60",
+        "#4e2f1b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#b8b0a2",
+        "#61472b",
+        "#3b291b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-20869"
+    },
+    {
+      "colors": [
+        "#626f7b",
+        "#625843",
+        "#838980"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25261"
+    },
+    {
+      "colors": [
+        "#8f895f",
+        "#b9b08d",
+        "#f6e0bd"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100598"
+    },
+    {
+      "colors": [
+        "#5b493c",
+        "#886d47",
+        "#978170"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102276"
+    },
+    {
+      "colors": [
+        "#debf8c",
+        "#b3864c",
+        "#e8d9c1"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25693"
+    },
+    {
+      "colors": [
+        "#e7ddbc",
+        "#804632",
+        "#543322"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25367"
+    },
+    {
+      "colors": [
+        "#989186",
+        "#73633f",
+        "#b8b4aa"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-20894"
+    },
+    {
+      "colors": [
+        "#d0c6c4",
+        "#da7a59",
+        "#af6146"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25415"
+    },
+    {
+      "colors": [
+        "#786e5c",
+        "#5e5040",
+        "#979389"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25452"
+    },
+    {
+      "colors": [
+        "#f1ded2",
+        "#262a30",
+        "#c8ad97"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102349"
+    },
+    {
+      "colors": [
+        "#908a85",
+        "#52443a",
+        "#75706e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101913"
+    },
+    {
+      "colors": [
+        "#1d4692",
+        "#66262e",
+        "#13234f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25876"
+    },
+    {
+      "colors": [
+        "#a48f64",
+        "#ddcdae",
+        "#3f352e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25453"
+    },
+    {
+      "colors": [
+        "#d4d0c5",
+        "#9b9382",
+        "#634e32"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25330"
+    },
+    {
+      "colors": [
+        "#dce9cc",
+        "#8bb9c8",
+        "#212b37"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102353"
+    },
+    {
+      "colors": [
+        "#9ea1a9",
+        "#84847d",
+        "#a9a498"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21755"
+    },
+    {
+      "colors": [
+        "#ada591",
+        "#8e7d5b",
+        "#735f38"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101929"
+    },
+    {
+      "colors": [
+        "#312626",
+        "#a2643b",
+        "#c4854a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26514"
+    },
+    {
+      "colors": [
+        "#9d958d",
+        "#d1d3dc",
+        "#4b3b2a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25469"
+    },
+    {
+      "colors": [
+        "#17231e",
+        "#302626",
+        "#c0780e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21981"
+    },
+    {
+      "colors": [
+        "#bdb2aa",
+        "#463c16",
+        "#425d80"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25412"
+    },
+    {
+      "colors": [
+        "#b0a376",
+        "#8d8052",
+        "#4b342a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26610"
+    },
+    {
+      "colors": [
+        "#d2cec7",
+        "#a6a39d",
+        "#7d6250"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101938"
+    },
+    {
+      "colors": [
+        "#9a7b57",
+        "#332c2c",
+        "#b99b78"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101931"
+    },
+    {
+      "colors": [
+        "#9a7b57",
+        "#332c2c",
+        "#b99b78"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101961"
+    },
+    {
+      "colors": [
+        "#d9c2b9",
+        "#3b2e2d",
+        "#b0643e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25702"
+    },
+    {
+      "colors": [
+        "#e1d2ce",
+        "#c3a495",
+        "#a8826e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25464"
+    },
+    {
+      "colors": [
+        "#977446",
+        "#d8dacd",
+        "#eccd99"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25760"
+    },
+    {
+      "colors": [
+        "#c19d64",
+        "#ebc791",
+        "#9c7f45"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26677"
+    },
+    {
+      "colors": [
+        "#d2c2ba",
+        "#413332",
+        "#a4948a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#433d2c",
+        "#5e5e47",
+        "#7c5a3c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25344"
+    },
+    {
+      "colors": [
+        "#e0ddc9",
+        "#a09a84",
+        "#604c30"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#b1b4bb",
+        "#716440",
+        "#504837"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#e5d6d5",
+        "#493737",
+        "#b39f8b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25646"
+    },
+    {
+      "colors": [
+        "#cfab90",
+        "#5d322e",
+        "#b4876b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25729"
+    },
+    {
+      "colors": [
+        "#d0bfb9",
+        "#3b2c26",
+        "#5f4e47"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25655"
+    },
+    {
+      "colors": [
+        "#c1af7f",
+        "#968148",
+        "#32271e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26536"
+    },
+    {
+      "colors": [
+        "#8a5355",
+        "#86747e",
+        "#adbec8"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25691"
+    },
+    {
+      "colors": [
+        "#413a31",
+        "#63707d",
+        "#876c52"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25780"
+    },
+    {
+      "colors": [
+        "#c1b9b4",
+        "#999283",
+        "#483222"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25736"
+    },
+    {
+      "colors": [
+        "#2b231f",
+        "#53392e",
+        "#7b6359"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25747"
+    },
+    {
+      "colors": [
+        "#16211e",
+        "#cfdecd",
+        "#c0c0a1"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25832"
+    },
+    {
+      "colors": [
+        "#292823",
+        "#544d47",
+        "#d1cbc5"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25864"
+    },
+    {
+      "colors": [
+        "#e2c396",
+        "#d9d4ca",
+        "#c42720"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25796"
+    },
+    {
+      "colors": [
+        "#bfcdbd",
+        "#a6ad87",
+        "#6e694b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25878"
+    },
+    {
+      "colors": [
+        "#654242",
+        "#a29177",
+        "#8d786a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22570"
+    },
+    {
+      "colors": [
+        "#b7a17a",
+        "#ddcaa2",
+        "#20231a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22881"
+    },
+    {
+      "colors": [
+        "#e4d2bf",
+        "#bea993",
+        "#4c3428"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25873"
+    },
+    {
+      "colors": [
+        "#886345",
+        "#a28c67",
+        "#51433f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25836"
+    },
+    {
+      "colors": [
+        "#89764b",
+        "#dbbb94",
+        "#b19670"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21972"
+    },
+    {
+      "colors": [
+        "#4b2312",
+        "#29241b",
+        "#825431"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100863"
+    },
+    {
+      "colors": [
+        "#d5d1c6",
+        "#5b5343",
+        "#856735"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25881"
+    },
+    {
+      "colors": [
+        "#b5b1a9",
+        "#665446",
+        "#816f60"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26028"
+    },
+    {
+      "colors": [
+        "#833d3f",
+        "#6c563b",
+        "#5c5a4b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25964"
+    },
+    {
+      "colors": [
+        "#eeddca",
+        "#d7b18d",
+        "#ba8b74"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25962"
+    },
+    {
+      "colors": [
+        "#e2d1c9",
+        "#463836",
+        "#7e483d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25884"
+    },
+    {
+      "colors": [
+        "#2e2523",
+        "#bcaaa4",
+        "#533b34"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101263"
+    },
+    {
+      "colors": [
+        "#c6b29c",
+        "#b09073",
+        "#453020"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25994"
+    },
+    {
+      "colors": [
+        "#706e66",
+        "#513b21",
+        "#796239"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101048"
+    },
+    {
+      "colors": [
+        "#b4a27e",
+        "#40352f",
+        "#623c2e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26128"
+    },
+    {
+      "colors": [
+        "#d9d7c7",
+        "#bab496",
+        "#3e382a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25966"
+    },
+    {
+      "colors": [
+        "#643544",
+        "#d7bba0",
+        "#bd8d78"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25840"
+    },
+    {
+      "colors": [
+        "#c07164",
+        "#e4cab7",
+        "#e69486"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26024"
+    },
+    {
+      "colors": [
+        "#e8ddbe",
+        "#34342d",
+        "#56483c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101330"
+    },
+    {
+      "colors": [
+        "#522f25",
+        "#825528",
+        "#d1cec2"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26237"
+    },
+    {
+      "colors": [
+        "#4f4d4a",
+        "#bcb3a8",
+        "#7a7465"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26135"
+    },
+    {
+      "colors": [
+        "#4f4d4a",
+        "#bcb3a8",
+        "#7a7465"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102063"
+    },
+    {
+      "colors": [
+        "#5a4736",
+        "#76674d",
+        "#a48770"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101348"
+    },
+    {
+      "colors": [
+        "#917c5f",
+        "#6e4a35",
+        "#b0997b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101661"
+    },
+    {
+      "colors": [
+        "#bb9e86",
+        "#5f4e44",
+        "#33302a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25973"
+    },
+    {
+      "colors": [
+        "#d9d6cc",
+        "#726c69",
+        "#5c543f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26043"
+    },
+    {
+      "colors": [
+        "#aeaba0",
+        "#806738",
+        "#948b80"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101246"
+    },
+    {
+      "colors": [
+        "#928c73",
+        "#b5a673",
+        "#7a4f14"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23851"
+    },
+    {
+      "colors": [
+        "#393a35",
+        "#242b37",
+        "#dfd7c6"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26033"
+    },
+    {
+      "colors": [
+        "#8b5e38",
+        "#3e3122",
+        "#c0a07b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26137"
+    },
+    {
+      "colors": [
+        "#beb3a7",
+        "#40261f",
+        "#675b55"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25965"
+    },
+    {
+      "colors": [
+        "#ded9c1",
+        "#774c33",
+        "#c1b090"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101663"
+    },
+    {
+      "colors": [
+        "#c1bab0",
+        "#c85c1f",
+        "#9a3b25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26500"
+    },
+    {
+      "colors": [
+        "#bda77c",
+        "#5a4438",
+        "#77552e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25975"
+    },
+    {
+      "colors": [
+        "#55382d",
+        "#b8b0a9",
+        "#2c201b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26174"
+    },
+    {
+      "colors": [
+        "#4f382f",
+        "#34302d",
+        "#c3b697"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23713"
+    },
+    {
+      "colors": [
+        "#655949",
+        "#857462",
+        "#3a2c25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101255"
+    },
+    {
+      "colors": [
+        "#a68555",
+        "#6c6d3a",
+        "#425535"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26173"
+    },
+    {
+      "colors": [
+        "#d7bda2",
+        "#a08b74",
+        "#8d4e37"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24023"
+    },
+    {
+      "colors": [
+        "#d5ceb5",
+        "#b99b76",
+        "#7e4c27"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26189"
+    },
+    {
+      "colors": [
+        "#312625",
+        "#bdaaa7",
+        "#bc7d52"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#97294f",
+        "#ab6371",
+        "#b38780"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102196"
+    },
+    {
+      "colors": [
+        "#dac69e",
+        "#b6a175",
+        "#c5c2b5"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101900"
+    },
+    {
+      "colors": [
+        "#38312f",
+        "#665b57",
+        "#865d50"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26628"
+    },
+    {
+      "colors": [
+        "#6c6a60",
+        "#353233",
+        "#887249"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102831"
+    },
+    {
+      "colors": [
+        "#233136",
+        "#2f4d4c",
+        "#cfca8e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102257"
+    },
+    {
+      "colors": [
+        "#c3c0b3",
+        "#b78b45",
+        "#825827"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26519"
+    },
+    {
+      "colors": [
+        "#c3c0b3",
+        "#b78b45",
+        "#825827"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26675"
+    },
+    {
+      "colors": [
+        "#9e7f56",
+        "#7e613d",
+        "#c9c2b5"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101914"
+    },
+    {
+      "colors": [
+        "#cec2b1",
+        "#2f2e2c",
+        "#534c43"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-16387"
+    },
+    {
+      "colors": [
+        "#7a6950",
+        "#122c2a",
+        "#235f56"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24644"
+    },
+    {
+      "colors": [
+        "#54534f",
+        "#767169",
+        "#312b27"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25053"
+    },
+    {
+      "colors": [
+        "#b4a193",
+        "#846a5b",
+        "#453c40"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26583"
+    },
+    {
+      "colors": [
+        "#b2a59a",
+        "#90857a",
+        "#283259"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28385"
+    },
+    {
+      "colors": [
+        "#794636",
+        "#a3755f",
+        "#60260a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26639"
+    },
+    {
+      "colors": [
+        "#312625",
+        "#623522",
+        "#8d512f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24165"
+    },
+    {
+      "colors": [
+        "#5b3623",
+        "#875c41",
+        "#311f11"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102285"
+    },
+    {
+      "colors": [
+        "#d6cebb",
+        "#916338",
+        "#5e3a1f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102281"
+    },
+    {
+      "colors": [
+        "#3f392d",
+        "#372828",
+        "#6b544f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27185"
+    },
+    {
+      "colors": [
+        "#9b958e",
+        "#44454b",
+        "#292429"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101926"
+    },
+    {
+      "colors": [
+        "#4c4139",
+        "#91643a",
+        "#6e5848"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21968"
+    },
+    {
+      "colors": [
+        "#463b32",
+        "#686561",
+        "#383d45"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21496"
+    },
+    {
+      "colors": [
+        "#d3d2c5",
+        "#4b4037",
+        "#9f9e8f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21497"
+    },
+    {
+      "colors": [
+        "#864730",
+        "#d1c4c0",
+        "#5b2e23"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26591"
+    },
+    {
+      "colors": [
+        "#39403e",
+        "#e7e5d2",
+        "#526b74"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101945"
+    },
+    {
+      "colors": [
+        "#b27d76",
+        "#906067",
+        "#905541"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21915"
+    },
+    {
+      "colors": [
+        "#b27d76",
+        "#906067",
+        "#905541"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25424"
+    },
+    {
+      "colors": [
+        "#73413e",
+        "#9c6e67",
+        "#aea8a4"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27633"
+    },
+    {
+      "colors": [
+        "#73413e",
+        "#9c6e67",
+        "#aea8a4"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22162"
+    },
+    {
+      "colors": [
+        "#e1dece",
+        "#3c3327",
+        "#6e5f44"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22722"
+    },
+    {
+      "colors": [
+        "#886544",
+        "#3e1d08",
+        "#c99f8d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21788"
+    },
+    {
+      "colors": [
+        "#5c4033",
+        "#94705a",
+        "#80653b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#fdf1d0",
+        "#27302f",
+        "#956457"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#998b66",
+        "#574b37",
+        "#7d6d48"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102315"
+    },
+    {
+      "colors": [
+        "#352a29",
+        "#c28458",
+        "#8d5a3d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#16211e",
+        "#8bb2dc",
+        "#679ab1"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29444"
+    },
+    {
+      "colors": [
+        "#8e7d57",
+        "#9f9d97",
+        "#73613a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24612"
+    },
+    {
+      "colors": [
+        "#d6d1ca",
+        "#3d2d20",
+        "#775642"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26401"
+    },
+    {
+      "colors": [
+        "#5e2a1f",
+        "#3a3b3f",
+        "#8f553b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#ccc2ba",
+        "#31221e",
+        "#5f534f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22602"
+    },
+    {
+      "colors": [
+        "#b6557a",
+        "#b5aba8",
+        "#7f354a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102266"
+    },
+    {
+      "colors": [
+        "#89613d",
+        "#644433",
+        "#2f2823"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27856"
+    },
+    {
+      "colors": [
+        "#766c5b",
+        "#938869",
+        "#d8d6cb"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26226"
+    },
+    {
+      "colors": [
+        "#caa387",
+        "#e8cdb8",
+        "#ba8060"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25005"
+    },
+    {
+      "colors": [
+        "#81868a",
+        "#aeb4bc",
+        "#e1c39f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#d6d1c9",
+        "#1c2549",
+        "#a29c93"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#7d6354",
+        "#483b33",
+        "#fee1cc"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21840"
+    },
+    {
+      "colors": [
+        "#312625",
+        "#56403d",
+        "#b59082"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26423"
+    },
+    {
+      "colors": [
+        "#b8a499",
+        "#9c8171",
+        "#795b47"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26676"
+    },
+    {
+      "colors": [
+        "#312625",
+        "#6e6d77",
+        "#c24e48"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102273"
+    },
+    {
+      "colors": [
+        "#7a857e",
+        "#5b605a",
+        "#9f8455"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27711"
+    },
+    {
+      "colors": [
+        "#82604f",
+        "#5c3e2d",
+        "#372b28"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25037"
+    },
+    {
+      "colors": [
+        "#e7d8d6",
+        "#352a29",
+        "#bfaca6"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25357"
+    },
+    {
+      "colors": [
+        "#524133",
+        "#7e6850",
+        "#2e2c2a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25254"
+    },
+    {
+      "colors": [
+        "#7b613e",
+        "#442b1c",
+        "#724939"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26246"
+    },
+    {
+      "colors": [
+        "#645244",
+        "#a18466",
+        "#866a49"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26505"
+    },
+    {
+      "colors": [
+        "#a09271",
+        "#5a5143",
+        "#bbc5d9"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25050"
+    },
+    {
+      "colors": [
+        "#7b633f",
+        "#452f2c",
+        "#776563"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24968"
+    },
+    {
+      "colors": [
+        "#47433e",
+        "#7c6859",
+        "#efdfcf"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26489"
+    },
+    {
+      "colors": [
+        "#e0ddc3",
+        "#766453",
+        "#a16748"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25324"
+    },
+    {
+      "colors": [
+        "#836e3e",
+        "#6b4c1f",
+        "#4a2f11"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26444"
+    },
+    {
+      "colors": [
+        "#635246",
+        "#876d53",
+        "#383331"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28249"
+    },
+    {
+      "colors": [
+        "#c1b9b2",
+        "#6d4b33",
+        "#45312b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22086"
+    },
+    {
+      "colors": [
+        "#9d8964",
+        "#826f49",
+        "#291707"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22249"
+    },
+    {
+      "colors": [
+        "#3b2a28",
+        "#683d33",
+        "#6a5d5c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26600"
+    },
+    {
+      "colors": [
+        "#313439",
+        "#5a7a7b",
+        "#a6998f"
+      ],
+      "id": "#N/A"
+    },
+    {
+      "colors": [
+        "#633740",
+        "#43373e",
+        "#ac7d70"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21915"
+    },
+    {
+      "colors": [
+        "#312e2c",
+        "#a87854",
+        "#8b583b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25424"
+    },
+    {
+      "colors": [
+        "#ab8a58",
+        "#98514c",
+        "#85603d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27633"
+    },
+    {
+      "colors": [
+        "#e5dbcd",
+        "#724328",
+        "#91867a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22162"
+    },
+    {
+      "colors": [
+        "#6a4325",
+        "#8c6d57",
+        "#ae9568"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22722"
+    },
+    {
+      "colors": [
+        "#262b3f",
+        "#d2c0b8",
+        "#ac806e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21788"
+    },
+    {
+      "colors": [
+        "#572f21",
+        "#824d32",
+        "#ac6439"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#724026",
+        "#9b643b",
+        "#31221a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#473f3d",
+        "#b68868",
+        "#82532b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102315"
+    },
+    {
+      "colors": [
+        "#6c422c",
+        "#915325",
+        "#461907"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#2e2d2a",
+        "#5d5b52",
+        "#48352a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29444"
+    },
+    {
+      "colors": [
+        "#5e3643",
+        "#32303c",
+        "#1e2728"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24612"
+    },
+    {
+      "colors": [
+        "#403124",
+        "#826f45",
+        "#685137"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26401"
+    },
+    {
+      "colors": [
+        "#403124",
+        "#826f45",
+        "#685137"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#505156",
+        "#98968b",
+        "#6d6d75"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22602"
+    },
+    {
+      "colors": [
+        "#9b9269",
+        "#78714c",
+        "#dddbc6"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102266"
+    },
+    {
+      "colors": [
+        "#c6ba9a",
+        "#2e2d2a",
+        "#4f342d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27856"
+    },
+    {
+      "colors": [
+        "#232531",
+        "#9f9098",
+        "#6e6a76"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26226"
+    },
+    {
+      "colors": [
+        "#a66e48",
+        "#5c423b",
+        "#302823"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25005"
+    },
+    {
+      "colors": [
+        "#dbc99d",
+        "#6c4d40",
+        "#ab8d6e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#d7d0cb",
+        "#a7968a",
+        "#867369"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#8a7a45",
+        "#725628",
+        "#4c3f25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21840"
+    },
+    {
+      "colors": [
+        "#8a7a45",
+        "#725628",
+        "#4c3f25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26423"
+    },
+    {
+      "colors": [
+        "#8a7a45",
+        "#725628",
+        "#4c3f25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26676"
+    },
+    {
+      "colors": [
+        "#8a7a45",
+        "#725628",
+        "#4c3f25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102273"
+    },
+    {
+      "colors": [
+        "#8a7a45",
+        "#725628",
+        "#4c3f25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27711"
+    },
+    {
+      "colors": [
+        "#8a7a45",
+        "#725628",
+        "#4c3f25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25037"
+    },
+    {
+      "colors": [
+        "#8a7a45",
+        "#725628",
+        "#4c3f25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25357"
+    },
+    {
+      "colors": [
+        "#5a5753",
+        "#3b3531",
+        "#bc8e5c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25254"
+    },
+    {
+      "colors": [
+        "#602c10",
+        "#bb7e45",
+        "#7f4a25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26246"
+    },
+    {
+      "colors": [
+        "#846f41",
+        "#675127",
+        "#402b10"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26505"
+    },
+    {
+      "colors": [
+        "#e5d7d5",
+        "#352a29",
+        "#d0947c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25050"
+    },
+    {
+      "colors": [
+        "#ae9f82",
+        "#967e70",
+        "#af9b93"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24968"
+    },
+    {
+      "colors": [
+        "#debf6a",
+        "#ae7e2f",
+        "#af986c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26489"
+    },
+    {
+      "colors": [
+        "#8d9196",
+        "#33322d",
+        "#483427"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25324"
+    },
+    {
+      "colors": [
+        "#f5b173",
+        "#cb733d",
+        "#57433f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26444"
+    },
+    {
+      "colors": [
+        "#7c4a34",
+        "#aa6b47",
+        "#d9cfcd"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28249"
+    },
+    {
+      "colors": [
+        "#ecebd2",
+        "#c7a782",
+        "#8b6644"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22086"
+    },
+    {
+      "colors": [
+        "#dcbba4",
+        "#322d27",
+        "#54341f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22249"
+    },
+    {
+      "colors": [
+        "#312626",
+        "#b1734a",
+        "#554642"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26600"
+    },
+    {
+      "colors": [
+        "#996644",
+        "#4d3025",
+        "#74452d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25291"
+    },
+    {
+      "colors": [
+        "#bcb39b",
+        "#87786a",
+        "#2d2c28"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26250"
+    },
+    {
+      "colors": [
+        "#431e12",
+        "#d3a769",
+        "#6f3a1e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21459"
+    },
+    {
+      "colors": [
+        "#f5b786",
+        "#cca696",
+        "#d88d62"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102466"
+    },
+    {
+      "colors": [
+        "#917340",
+        "#b09368",
+        "#71582d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22600"
+    },
+    {
+      "colors": [
+        "#7e5d3e",
+        "#c49c82",
+        "#593417"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28316"
+    },
+    {
+      "colors": [
+        "#937f5c",
+        "#76603e",
+        "#c6a079"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24836"
+    },
+    {
+      "colors": [
+        "#a2844b",
+        "#5c431f",
+        "#291e0e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-20603"
+    },
+    {
+      "colors": [
+        "#a28b60",
+        "#7e6b42",
+        "#d2af86"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28616"
+    },
+    {
+      "colors": [
+        "#8c5f4d",
+        "#64483e",
+        "#797370"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28407"
+    },
+    {
+      "colors": [
+        "#bea37b",
+        "#725f41",
+        "#483829"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26684"
+    },
+    {
+      "colors": [
+        "#5a472a",
+        "#7c673e",
+        "#868275"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27915"
+    },
+    {
+      "colors": [
+        "#5e5238",
+        "#ad9d85",
+        "#8c7c63"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23408"
+    },
+    {
+      "colors": [
+        "#856740",
+        "#584d46",
+        "#8c7e62"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26557"
+    },
+    {
+      "colors": [
+        "#786c42",
+        "#5b4a22",
+        "#d7c293"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26617"
+    },
+    {
+      "colors": [
+        "#786c42",
+        "#5b4a22",
+        "#d7c293"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22057"
+    },
+    {
+      "colors": [
+        "#786c42",
+        "#5b4a22",
+        "#d7c293"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26685"
+    },
+    {
+      "colors": [
+        "#786c42",
+        "#5b4a22",
+        "#d7c293"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28334"
+    },
+    {
+      "colors": [
+        "#786c42",
+        "#5b4a22",
+        "#d7c293"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26643"
+    },
+    {
+      "colors": [
+        "#b9a397",
+        "#846c5f",
+        "#654e42"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26621"
+    },
+    {
+      "colors": [
+        "#874624",
+        "#bf9c74",
+        "#a97342"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28712"
+    },
+    {
+      "colors": [
+        "#7f7a78",
+        "#635e5c",
+        "#58432a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28991"
+    },
+    {
+      "colors": [
+        "#917850",
+        "#574436",
+        "#765633"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22916"
+    },
+    {
+      "colors": [
+        "#71592a",
+        "#55370c",
+        "#d9c49d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23349"
+    },
+    {
+      "colors": [
+        "#907865",
+        "#54453b",
+        "#87837f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26594"
+    },
+    {
+      "colors": [
+        "#c7b6a6",
+        "#948776",
+        "#786c63"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28723"
+    },
+    {
+      "colors": [
+        "#7e6e4b",
+        "#9e9b8f",
+        "#5a4a2e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23889"
+    },
+    {
+      "colors": [
+        "#7e7258",
+        "#5f4b39",
+        "#a8967a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29624"
+    },
+    {
+      "colors": [
+        "#9d7147",
+        "#6a4123",
+        "#a2978a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23190"
+    },
+    {
+      "colors": [
+        "#816f47",
+        "#5f4f39",
+        "#a18e67"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23446"
+    },
+    {
+      "colors": [
+        "#aa9068",
+        "#d0c1b0",
+        "#583d18"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22859"
+    },
+    {
+      "colors": [
+        "#806f5a",
+        "#64533c",
+        "#605e5b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22770"
+    },
+    {
+      "colors": [
+        "#694122",
+        "#a39170",
+        "#7d5f38"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28718"
+    },
+    {
+      "colors": [
+        "#978866",
+        "#725d37",
+        "#afaa9d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23742"
+    },
+    {
+      "colors": [
+        "#907871",
+        "#684b47",
+        "#c1b3ad"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29745"
+    },
+    {
+      "colors": [
+        "#9f8960",
+        "#bdae86",
+        "#7c5e31"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22848"
+    },
+    {
+      "colors": [
+        "#363539",
+        "#825e3f",
+        "#756c60"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29749"
+    },
+    {
+      "colors": [
+        "#8c6353",
+        "#6a4637",
+        "#ac7b67"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29625"
+    },
+    {
+      "colors": [
+        "#8d7b5f",
+        "#685344",
+        "#b4a491"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22929"
+    },
+    {
+      "colors": [
+        "#7c633b",
+        "#b6a98c",
+        "#a08960"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23683"
+    },
+    {
+      "colors": [
+        "#d9bc90",
+        "#735d34",
+        "#a6915a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27106"
+    },
+    {
+      "colors": [
+        "#918c7c",
+        "#7c6d45",
+        "#705223"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22858"
+    },
+    {
+      "colors": [
+        "#8b7469",
+        "#64544c",
+        "#aa958a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22874"
+    },
+    {
+      "colors": [
+        "#887465",
+        "#543c2e",
+        "#745949"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30161"
+    },
+    {
+      "colors": [
+        "#887465",
+        "#543c2e",
+        "#745949"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21906"
+    },
+    {
+      "colors": [
+        "#c1bbae",
+        "#8f8874",
+        "#6f5937"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21909"
+    },
+    {
+      "colors": [
+        "#b3afa3",
+        "#898a78",
+        "#61604c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26964"
+    },
+    {
+      "colors": [
+        "#debeaa",
+        "#bf8d70",
+        "#815e4b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29887"
+    },
+    {
+      "colors": [
+        "#817a77",
+        "#7c5e52",
+        "#4d4541"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29981"
+    },
+    {
+      "colors": [
+        "#725e42",
+        "#86827f",
+        "#35281f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29959"
+    },
+    {
+      "colors": [
+        "#5f4936",
+        "#947d66",
+        "#35251c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27651"
+    },
+    {
+      "colors": [
+        "#c5bc99",
+        "#9e9371",
+        "#746d4e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30149"
+    },
+    {
+      "colors": [
+        "#9a8359",
+        "#c6a988",
+        "#7d5c39"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23676"
+    },
+    {
+      "colors": [
+        "#b0a185",
+        "#2e2b26",
+        "#817557"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23732"
+    },
+    {
+      "colors": [
+        "#756656",
+        "#43352a",
+        "#8f816e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21455"
+    },
+    {
+      "colors": [
+        "#89754e",
+        "#775b3a",
+        "#342b25"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21461"
+    },
+    {
+      "colors": [
+        "#9a917c",
+        "#2c2925",
+        "#767063"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27719"
+    },
+    {
+      "colors": [
+        "#bbac8e",
+        "#848070",
+        "#423422"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-31570"
+    },
+    {
+      "colors": [
+        "#a29890",
+        "#babdc4",
+        "#7f766d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27835"
+    },
+    {
+      "colors": [
+        "#443c33",
+        "#a8a79f",
+        "#7d7465"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100729"
+    },
+    {
+      "colors": [
+        "#816f5b",
+        "#31201f",
+        "#a2895e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29860"
+    },
+    {
+      "colors": [
+        "#a57958",
+        "#85614b",
+        "#bb977f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21330"
+    },
+    {
+      "colors": [
+        "#37372d",
+        "#6e6868",
+        "#7e95ba"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21462"
+    },
+    {
+      "colors": [
+        "#987b55",
+        "#785329",
+        "#b8987b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27540"
+    },
+    {
+      "colors": [
+        "#bba87f",
+        "#7c6738",
+        "#615b47"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30226"
+    },
+    {
+      "colors": [
+        "#f2d8c0",
+        "#815733",
+        "#ccae91"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27492"
+    },
+    {
+      "colors": [
+        "#88693c",
+        "#533b25",
+        "#afa382"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27859"
+    },
+    {
+      "colors": [
+        "#d7c2af",
+        "#ad9788",
+        "#857268"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23707"
+    },
+    {
+      "colors": [
+        "#453f33",
+        "#86837f",
+        "#706a5e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22026"
+    },
+    {
+      "colors": [
+        "#beb7a5",
+        "#3a3735",
+        "#938975"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-27715"
+    },
+    {
+      "colors": [
+        "#853f3a",
+        "#451a17",
+        "#939386"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24020"
+    },
+    {
+      "colors": [
+        "#d9c9b2",
+        "#b7997d",
+        "#8e7156"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29845"
+    },
+    {
+      "colors": [
+        "#d7d1ba",
+        "#2b2a22",
+        "#4f493c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24452"
+    },
+    {
+      "colors": [
+        "#3f3a34",
+        "#5a4330",
+        "#7c5e49"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25125"
+    },
+    {
+      "colors": [
+        "#8ab4ad",
+        "#e0d8c5",
+        "#bdd7ce"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30251"
+    },
+    {
+      "colors": [
+        "#977e6e",
+        "#b9a9a2",
+        "#473838"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28326"
+    },
+    {
+      "colors": [
+        "#7e725a",
+        "#9b8c74",
+        "#4d3d2c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25387"
+    },
+    {
+      "colors": [
+        "#918982",
+        "#64503e",
+        "#2e201c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30568"
+    },
+    {
+      "colors": [
+        "#82725e",
+        "#6c574a",
+        "#41342f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30475"
+    },
+    {
+      "colors": [
+        "#d6d3c9",
+        "#b1a995",
+        "#3b342c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29420"
+    },
+    {
+      "colors": [
+        "#948764",
+        "#b8af90",
+        "#353124"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25477"
+    },
+    {
+      "colors": [
+        "#392c27",
+        "#8c7660",
+        "#ddccbd"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25639"
+    },
+    {
+      "colors": [
+        "#928a73",
+        "#6d4826",
+        "#462a19"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30541"
+    },
+    {
+      "colors": [
+        "#c1a284",
+        "#9f7f66",
+        "#352727"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-28647"
+    },
+    {
+      "colors": [
+        "#e8d4bc",
+        "#503b2c",
+        "#b6a188"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25628"
+    },
+    {
+      "colors": [
+        "#e2d1be",
+        "#be9e80",
+        "#9f7a5b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30502"
+    },
+    {
+      "colors": [
+        "#665535",
+        "#3f3021",
+        "#968466"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25457"
+    },
+    {
+      "colors": [
+        "#6c492b",
+        "#2c1e0c",
+        "#4b2509"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-31239"
+    },
+    {
+      "colors": [
+        "#947b4a",
+        "#cab68c",
+        "#4a3f34"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25505"
+    },
+    {
+      "colors": [
+        "#3a312e",
+        "#5e4339",
+        "#9a7a67"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25742"
+    },
+    {
+      "colors": [
+        "#c2b99f",
+        "#bcc4d7",
+        "#3c3c38"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-31155"
+    },
+    {
+      "colors": [
+        "#d1ab90",
+        "#f4d6bc",
+        "#aa7959"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29875"
+    },
+    {
+      "colors": [
+        "#5a4330",
+        "#8a7152",
+        "#aa8f6c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22047"
+    },
+    {
+      "colors": [
+        "#ddaf99",
+        "#c48668",
+        "#dcc7c1"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25776"
+    },
+    {
+      "colors": [
+        "#b3a37f",
+        "#281e0f",
+        "#56482f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25755"
+    },
+    {
+      "colors": [
+        "#a79c8f",
+        "#352a25",
+        "#61492d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-31024"
+    },
+    {
+      "colors": [
+        "#693f57",
+        "#715848",
+        "#8e7864"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30592"
+    },
+    {
+      "colors": [
+        "#3d322e",
+        "#64534a",
+        "#a89d92"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29417"
+    },
+    {
+      "colors": [
+        "#4e4940",
+        "#2f2a23",
+        "#706b63"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22731"
+    },
+    {
+      "colors": [
+        "#f8ab53",
+        "#da8638",
+        "#e2d3ca"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25701"
+    },
+    {
+      "colors": [
+        "#513932",
+        "#a89e93",
+        "#705340"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-31021"
+    },
+    {
+      "colors": [
+        "#56443c",
+        "#31201b",
+        "#786660"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-31385"
+    },
+    {
+      "colors": [
+        "#634c38",
+        "#37231c",
+        "#7d6950"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29418"
+    },
+    {
+      "colors": [
+        "#312924",
+        "#b19770",
+        "#5d4839"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22093"
+    },
+    {
+      "colors": [
+        "#4d3a2b",
+        "#7d725f",
+        "#69583f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22705"
+    },
+    {
+      "colors": [
+        "#bfb7a4",
+        "#826537",
+        "#4a3520"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25744"
+    },
+    {
+      "colors": [
+        "#423b1e",
+        "#7a6644",
+        "#7b756f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29878"
+    },
+    {
+      "colors": [
+        "#634633",
+        "#8c6d4f",
+        "#412920"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-21990"
+    },
+    {
+      "colors": [
+        "#6c5938",
+        "#88725e",
+        "#493830"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-31374"
+    },
+    {
+      "colors": [
+        "#98846b",
+        "#746044",
+        "#31271c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25811"
+    },
+    {
+      "colors": [
+        "#4c3a0d",
+        "#63582f",
+        "#cabe88"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22892"
+    },
+    {
+      "colors": [
+        "#eee3cd",
+        "#e0bf97",
+        "#c89a75"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22089"
+    },
+    {
+      "colors": [
+        "#764b36",
+        "#b17c5e",
+        "#362016"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22823"
+    },
+    {
+      "colors": [
+        "#a48556",
+        "#896637",
+        "#6d4a2b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25875"
+    },
+    {
+      "colors": [
+        "#9c846b",
+        "#7f5f43",
+        "#3a3430"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22864"
+    },
+    {
+      "colors": [
+        "#5b4620",
+        "#432809",
+        "#241508"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22876"
+    },
+    {
+      "colors": [
+        "#7e6a45",
+        "#6f4721",
+        "#f0d9c6"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22870"
+    },
+    {
+      "colors": [
+        "#b6815c",
+        "#8d5d41",
+        "#54332f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29880"
+    },
+    {
+      "colors": [
+        "#e5896a",
+        "#9c5c49",
+        "#713e2f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25771"
+    },
+    {
+      "colors": [
+        "#a69475",
+        "#7d6546",
+        "#5c442c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22561"
+    },
+    {
+      "colors": [
+        "#896c40",
+        "#625135",
+        "#4f3929"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26176"
+    },
+    {
+      "colors": [
+        "#7a6f46",
+        "#383425",
+        "#5a5344"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24177"
+    },
+    {
+      "colors": [
+        "#5e2b2e",
+        "#725a57",
+        "#351c1e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25872"
+    },
+    {
+      "colors": [
+        "#605426",
+        "#aea278",
+        "#292211"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24176"
+    },
+    {
+      "colors": [
+        "#d78c72",
+        "#a7604a",
+        "#783f2f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101342"
+    },
+    {
+      "colors": [
+        "#b0936b",
+        "#7e693c",
+        "#442b0a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25830"
+    },
+    {
+      "colors": [
+        "#ba894d",
+        "#9a6730",
+        "#7e4d24"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24633"
+    },
+    {
+      "colors": [
+        "#796031",
+        "#b9966f",
+        "#492a0c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25851"
+    },
+    {
+      "colors": [
+        "#695b32",
+        "#423719",
+        "#b2a77c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24173"
+    },
+    {
+      "colors": [
+        "#695b32",
+        "#423719",
+        "#b2a77c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25837"
+    },
+    {
+      "colors": [
+        "#695b32",
+        "#423719",
+        "#b2a77c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24625"
+    },
+    {
+      "colors": [
+        "#695b32",
+        "#423719",
+        "#b2a77c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23861"
+    },
+    {
+      "colors": [
+        "#e1ba9a",
+        "#c28e6d",
+        "#946950"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101543"
+    },
+    {
+      "colors": [
+        "#635026",
+        "#c3b385",
+        "#2c2615"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26041"
+    },
+    {
+      "colors": [
+        "#b09368",
+        "#734f1f",
+        "#53300c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23709"
+    },
+    {
+      "colors": [
+        "#58422f",
+        "#806b48",
+        "#3d1e0a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24001"
+    },
+    {
+      "colors": [
+        "#997e4c",
+        "#5d4226",
+        "#7d6442"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25036"
+    },
+    {
+      "colors": [
+        "#846f43",
+        "#78562f",
+        "#492c0b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24141"
+    },
+    {
+      "colors": [
+        "#c4a780",
+        "#6f4d2e",
+        "#3f1c04"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-32295"
+    },
+    {
+      "colors": [
+        "#79532f",
+        "#c89d80",
+        "#431f06"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25613"
+    },
+    {
+      "colors": [
+        "#61541d",
+        "#c2b581",
+        "#261d0b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24478"
+    },
+    {
+      "colors": [
+        "#857d66",
+        "#4e4834",
+        "#241c0f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24530"
+    },
+    {
+      "colors": [
+        "#544135",
+        "#7c6959",
+        "#2b2321"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24602"
+    },
+    {
+      "colors": [
+        "#908775",
+        "#685f4f",
+        "#2d2b28"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24671"
+    },
+    {
+      "colors": [
+        "#715b41",
+        "#51473f",
+        "#302a28"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-32387"
+    },
+    {
+      "colors": [
+        "#575041",
+        "#736d5d",
+        "#302e2b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24613"
+    },
+    {
+      "colors": [
+        "#5a564c",
+        "#847f72",
+        "#32312b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25883"
+    },
+    {
+      "colors": [
+        "#433a43",
+        "#5d5756",
+        "#333839"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22926"
+    },
+    {
+      "colors": [
+        "#433a43",
+        "#5d5756",
+        "#333839"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22887"
+    },
+    {
+      "colors": [
+        "#5d4b3b",
+        "#887262",
+        "#39322a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26146"
+    },
+    {
+      "colors": [
+        "#5d4b3b",
+        "#887262",
+        "#39322a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-32740"
+    },
+    {
+      "colors": [
+        "#827b6c",
+        "#6f4c20",
+        "#3a2b1c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22854"
+    },
+    {
+      "colors": [
+        "#8b7d62",
+        "#6b614d",
+        "#42382b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25999"
+    },
+    {
+      "colors": [
+        "#b49e86",
+        "#746249",
+        "#44342b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-32527"
+    },
+    {
+      "colors": [
+        "#948c74",
+        "#756f61",
+        "#4d493d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-29975"
+    },
+    {
+      "colors": [
+        "#91897f",
+        "#717064",
+        "#50473b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22891"
+    },
+    {
+      "colors": [
+        "#bba77d",
+        "#958768",
+        "#514d44"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26079"
+    },
+    {
+      "colors": [
+        "#7a746f",
+        "#2e2728",
+        "#524c47"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-32625"
+    },
+    {
+      "colors": [
+        "#7a746f",
+        "#2e2728",
+        "#524c47"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22906"
+    },
+    {
+      "colors": [
+        "#2c2a26",
+        "#afab96",
+        "#59554a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-32599"
+    },
+    {
+      "colors": [
+        "#d9d3c0",
+        "#3e362c",
+        "#5f523f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26239"
+    },
+    {
+      "colors": [
+        "#433f3a",
+        "#65605c",
+        "#604a3d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26153"
+    },
+    {
+      "colors": [
+        "#c5c1b5",
+        "#907c50",
+        "#624d2c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101934"
+    },
+    {
+      "colors": [
+        "#938c61",
+        "#292a26",
+        "#696246"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101935"
+    },
+    {
+      "colors": [
+        "#37241c",
+        "#8c765f",
+        "#6a5343"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101937"
+    },
+    {
+      "colors": [
+        "#8e8077",
+        "#3d3734",
+        "#6d635c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-32545"
+    },
+    {
+      "colors": [
+        "#d2ccc3",
+        "#afa091",
+        "#6f645a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23452"
+    },
+    {
+      "colors": [
+        "#423125",
+        "#898279",
+        "#70665a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101988"
+    },
+    {
+      "colors": [
+        "#2d2621",
+        "#56514c",
+        "#716d69"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101990"
+    },
+    {
+      "colors": [
+        "#beaf84",
+        "#5b5140",
+        "#726b4c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26259"
+    },
+    {
+      "colors": [
+        "#e0cdba",
+        "#a8978c",
+        "#735d53"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25253"
+    },
+    {
+      "colors": [
+        "#c1b07a",
+        "#9c8e4c",
+        "#756631"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26225"
+    },
+    {
+      "colors": [
+        "#3c3a33",
+        "#a69f83",
+        "#76715d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24763"
+    },
+    {
+      "colors": [
+        "#9b9863",
+        "#5a553b",
+        "#767457"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24798"
+    },
+    {
+      "colors": [
+        "#a6a8b1",
+        "#40362c",
+        "#80745b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24991"
+    },
+    {
+      "colors": [
+        "#443d38",
+        "#686058",
+        "#817e73"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102203"
+    },
+    {
+      "colors": [
+        "#5e533f",
+        "#2e2923",
+        "#837c6d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102161"
+    },
+    {
+      "colors": [
+        "#9c9485",
+        "#534537",
+        "#846c53"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23569"
+    },
+    {
+      "colors": [
+        "#4a4038",
+        "#7a6250",
+        "#887b6e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102166"
+    },
+    {
+      "colors": [
+        "#554f44",
+        "#32302b",
+        "#88857c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26264"
+    },
+    {
+      "colors": [
+        "#847854",
+        "#5a4931",
+        "#8d8985"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26274"
+    },
+    {
+      "colors": [
+        "#7c6552",
+        "#4c372a",
+        "#8f8172"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25143"
+    },
+    {
+      "colors": [
+        "#322c24",
+        "#585148",
+        "#918e85"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24998"
+    },
+    {
+      "colors": [
+        "#333330",
+        "#73878e",
+        "#92a5a5"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24593"
+    },
+    {
+      "colors": [
+        "#7b5a37",
+        "#4d3a2c",
+        "#937d5c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25275"
+    },
+    {
+      "colors": [
+        "#7b5a37",
+        "#4d3a2c",
+        "#937d5c"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102242"
+    },
+    {
+      "colors": [
+        "#6f5031",
+        "#3e2c23",
+        "#9c8363"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22964"
+    },
+    {
+      "colors": [
+        "#494239",
+        "#998433",
+        "#9d9374"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26212"
+    },
+    {
+      "colors": [
+        "#695b47",
+        "#443429",
+        "#a3856d"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-23685"
+    },
+    {
+      "colors": [
+        "#f4e7c8",
+        "#c69e76",
+        "#a47957"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22720"
+    },
+    {
+      "colors": [
+        "#e2cfbe",
+        "#c59e89",
+        "#a67b69"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25136"
+    },
+    {
+      "colors": [
+        "#7d6e4f",
+        "#5f4e31",
+        "#a7a291"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24810"
+    },
+    {
+      "colors": [
+        "#cecab7",
+        "#776441",
+        "#a7a293"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-30023"
+    },
+    {
+      "colors": [
+        "#9f6c5a",
+        "#65473d",
+        "#ab8f87"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24829"
+    },
+    {
+      "colors": [
+        "#9f6c5a",
+        "#65473d",
+        "#ab8f87"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101888"
+    },
+    {
+      "colors": [
+        "#e99b62",
+        "#f8c499",
+        "#ad725b"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25370"
+    },
+    {
+      "colors": [
+        "#845e3b",
+        "#5d3a19",
+        "#b09883"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101910"
+    },
+    {
+      "colors": [
+        "#918a76",
+        "#736b57",
+        "#b3afa0"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-101916"
+    },
+    {
+      "colors": [
+        "#73553e",
+        "#a28566",
+        "#c0aa8a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25248"
+    },
+    {
+      "colors": [
+        "#b1826d",
+        "#865c4b",
+        "#c9ac9e"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102268"
+    },
+    {
+      "colors": [
+        "#a77d63",
+        "#744f3d",
+        "#cbc1bc"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-24600"
+    },
+    {
+      "colors": [
+        "#817240",
+        "#5e4619",
+        "#cdbf8f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-22880"
+    },
+    {
+      "colors": [
+        "#817240",
+        "#5e4619",
+        "#cdbf8f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26414"
+    },
+    {
+      "colors": [
+        "#817240",
+        "#5e4619",
+        "#cdbf8f"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25144"
+    },
+    {
+      "colors": [
+        "#7a592f",
+        "#4d361b",
+        "#d2b794"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25148"
+    },
+    {
+      "colors": [
+        "#6c523a",
+        "#3c2e26",
+        "#dacbc5"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25073"
+    },
+    {
+      "colors": [
+        "#6c523a",
+        "#3c2e26",
+        "#dacbc5"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25137"
+    },
+    {
+      "colors": [
+        "#7c5c37",
+        "#432107",
+        "#dcb29a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25111"
+    },
+    {
+      "colors": [
+        "#7c5c37",
+        "#432107",
+        "#dcb29a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102284"
+    },
+    {
+      "colors": [
+        "#725025",
+        "#4a2a07",
+        "#dcb993"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26413"
+    },
+    {
+      "colors": [
+        "#806852",
+        "#523f2d",
+        "#e1d4cc"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-25116"
+    },
+    {
+      "colors": [
+        "#ce8964",
+        "#edb187",
+        "#e2cabc"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-26244"
+    },
+    {
+      "colors": [
+        "#77572f",
+        "#4f2e09",
+        "#e3bd9a"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-100610"
+    },
+    {
+      "colors": [
+        "#80613b",
+        "#4d2405",
+        "#f6c7a6"
+      ],
+      "id": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-102290"
+    }
+  ]
+}
