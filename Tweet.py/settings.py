@@ -1,8 +1,0 @@
-__author__ = 'amoriarty'
-CONSUMER_KEY = 'wGSb1Gt1sMaLVeoKzVC8hJYJh'
-CONSUMER_SECRET = 'hke90FLOTewq5GMeZ6cRGKnxMgoXJhvBKcY8dxt2mOZTui5CfD'
-ACCESS_KEY = '3312712332-HT8YxMmtTFG1HjcS612hIPrxc688bbAHhMmSx4w'
-ACCESS_SECRET = 'UUPkCWjp6gLOxWa6Vup4AWmHWUrQzDMNIbISwXxy7z5Hb'
-
-#add D to Con secret
-
